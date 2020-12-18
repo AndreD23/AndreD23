@@ -2,10 +2,11 @@
   Olá mundo, André Dorneles aqui! 👋
 </h1>
 
+<h3 align="center">
 Sou engenheiro de software, desenvolvedor full-stack e empreendedor.
 
 Possuo conhecimento e experiência em desenvolvimento para plataformas desktop, web e mobile.
-
+</h3>
 
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/AndreD23)](https://github.com/AndreD23)
