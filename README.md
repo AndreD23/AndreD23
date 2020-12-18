@@ -4,12 +4,11 @@
 
 <br>
 
-<h2 align="center">
+<h3 align="center">
 👨🏻‍💻 &nbsp; Sou engenheiro de software, desenvolvedor full-stack e empreendedor.
 
 Possuo conhecimento e experiência em desenvolvimento para plataformas desktop, web e mobile.
-</h2>
-<br>
+</h3>
 
 <img align='right' src='http://www.jenyalestina.com/blog/wp-content/uploads/2019/05/web-development-1024x582.jpg' width='300"'>
 
@@ -45,3 +44,5 @@ Docker, Laragon, JetBrains, VSCode, RabbitMQ
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreD23)](https://github.com/AndreD23/github-readme-stats)
 
 [![HitCount](http://hits.dwyl.com/AndreD23/AndreD23.svg)](http://hits.dwyl.com/AndreD23/AndreD23)
+
+<p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
