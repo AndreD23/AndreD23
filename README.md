@@ -11,7 +11,9 @@ Possuo conhecimento e experiência em desenvolvimento para plataformas desktop, 
 </h3>
 <br>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img align='right' src='http://www.jenyalestina.com/blog/wp-content/uploads/2019/05/web-development-1024x582.jpg' width='300"'>
+
+
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/AndreD23)](https://github.com/AndreD23)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andre-dorneles-pereira/)](https://www.linkedin.com/in/andre-dorneles-pereira/)
@@ -25,12 +27,13 @@ PHP, NodeJs, TypeScript, Python, Redis
 ### Front-end
 JavaScript, HTML5, CSS3, ReactJs, VueJs
 
-## 🌐 &nbsp; Frameworks
-Laravel, Electron
+## 🌐 &nbsp; Frameworks e Bibliotecas
+Laravel, Electron, Bootstrap
 
 ## 🔧 &nbsp; Ferramentas
-Docker, Laragon, JetBrains, VSCode, 
+Docker, Laragon, JetBrains, VSCode, RabbitMQ
 
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 ## Setup
 
