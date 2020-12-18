@@ -4,11 +4,11 @@
 
 <br>
 
-<h3 align="center">
+<h2 align="center">
 👨🏻‍💻 &nbsp; Sou engenheiro de software, desenvolvedor full-stack e empreendedor.
 
 Possuo conhecimento e experiência em desenvolvimento para plataformas desktop, web e mobile.
-</h3>
+</h2>
 <br>
 
 <img align='right' src='http://www.jenyalestina.com/blog/wp-content/uploads/2019/05/web-development-1024x582.jpg' width='300"'>
