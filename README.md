@@ -8,16 +8,12 @@
 
 <h3 align="left">
 👨🏻‍💻 &nbsp; Sou engenheiro de software, desenvolvedor full-stack e empreendedor.
-<br>
+<br><br>
 Possuo conhecimento e experiência em desenvolvimento para plataformas desktop, web e mobile.
 </h3>
 
 
 
-
-
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/AndreD23)](https://github.com/AndreD23)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andre-dorneles-pereira/)](https://www.linkedin.com/in/andre-dorneles-pereira/)
 
 <h3>🛠 Tech Stack</h3>
 
