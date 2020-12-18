@@ -47,19 +47,19 @@ Possuo conhecimento e experiência em desenvolvimento para plataformas desktop, 
   <br><br><br><br>
 
 ## 🤜🤛 Social
-<a href="https://www.linkedin.com/in/andre-dorneles-pereira/" target="_blank">
+<a href="https://www.linkedin.com/in/andre-dorneles-pereira/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>&nbsp;&nbsp;
 
-<a href="https://www.youtube.com/channel/UCAdff5IxSU3tpNNzAJQ4u9g" target="_blank">
+<a href="https://www.youtube.com/channel/UCAdff5IxSU3tpNNzAJQ4u9g">
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 </a>&nbsp;&nbsp;
 
-<a href="https://instagram.com/andre.dorneles23" target="_blank">
+<a href="https://instagram.com/andre.dorneles23">
   <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
 </a>&nbsp;&nbsp;
 
-<a href="https://stackoverflow.com/users/7406981/andr%c3%a9-dorneles" target="_blank">
+<a href="https://stackoverflow.com/users/7406981/andr%c3%a9-dorneles">
   <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
 </a>&nbsp;&nbsp;
 
