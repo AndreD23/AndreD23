@@ -1,4 +1,9 @@
-### Hi there 👋
+### Olá mundo, André Dorneles aqui! 👋
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/AndreD23)](https://github.com/AndreD23)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andre-dorneles-pereira/)](https://www.linkedin.com/in/andre-dorneles-pereira/)
+
+
 
 <!--
 **AndreD23/AndreD23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +19,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
