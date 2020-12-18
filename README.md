@@ -31,7 +31,7 @@ Possuo conhecimento e experiência em desenvolvimento para plataformas desktop, 
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" /> <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=Electron&logoColor=white" /> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /> <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
 <br><br>
 
-### BDs
+### 📦 BDs
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" /> <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=white" />
 
 
@@ -40,13 +40,13 @@ Possuo conhecimento e experiência em desenvolvimento para plataformas desktop, 
 <br><br><br><br>
 
 
-## Contato
+## 📱 Contato
 <a href="mailto:andre@imperiosoft.com.br">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
   <br><br><br><br>
 
-## Social
+## 🤜🤛 Social
 <a href="https://www.linkedin.com/in/andre-dorneles-pereira/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>&nbsp;&nbsp;
@@ -66,18 +66,23 @@ Possuo conhecimento e experiência em desenvolvimento para plataformas desktop, 
 
 <br><br><br><br>
 
-## Setup
+## 💻 Setup
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+<p align='center'>
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+</p>
 
-<img src="https://img.shields.io/badge/NVIDIA-GTX1660TI-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
-<img src="https://img.shields.io/badge/Intel-Core_i7--3th-0071C5?style=for-the-badge&logo=intel&logoColor=white" />
+<p align='center'>
+  <img src="https://img.shields.io/badge/NVIDIA-GTX1660TI-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/Intel-Core_i7--3th-0071C5?style=for-the-badge&logo=intel&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
+</p>
 
 <br><br><br><br>
 
-## Stats 💬
+## 🚀 Stats 💬
 
 [![AndreD23's github stats](https://github-readme-stats.vercel.app/api?username=AndreD23&show_icons=true&theme=midnight-purple)](https://github.com/AndreD23/github-readme-stats)
 
