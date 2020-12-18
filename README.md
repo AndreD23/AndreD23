@@ -18,23 +18,28 @@ Possuo conhecimento e experiência em desenvolvimento para plataformas desktop, 
 ## 🛠 Tech Stack
 
 ### 💻 &nbsp; Linguagens
+
 #### Back-end
 PHP, NodeJs, TypeScript, Python, Redis
+<br>
 
 #### Front-end
 JavaScript, HTML5, CSS3, ReactJs, VueJs
+<br><br>
 
 ### 🌐 &nbsp; Frameworks e Bibliotecas
 Laravel, Electron, Bootstrap
+<br><br>
 
 ### 🔧 &nbsp; Ferramentas
 Docker, Laragon, JetBrains, VSCode, RabbitMQ
-
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<br><br><br><br>
 
 
 ## Setup
 
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<br><br><br><br>
 
 ## Stats 💬
 
