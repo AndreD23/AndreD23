@@ -4,13 +4,15 @@
 
 <br>
 
-<h3 align="center">
+<img align='right' src='http://www.jenyalestina.com/blog/wp-content/uploads/2019/05/web-development-1024x582.jpg' width='300"'>
+
+<h3 align="left">
 👨🏻‍💻 &nbsp; Sou engenheiro de software, desenvolvedor full-stack e empreendedor.
 
 Possuo conhecimento e experiência em desenvolvimento para plataformas desktop, web e mobile.
 </h3>
 
-<img align='right' src='http://www.jenyalestina.com/blog/wp-content/uploads/2019/05/web-development-1024x582.jpg' width='300"'>
+
 
 
 
