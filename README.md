@@ -43,7 +43,7 @@ Possuo conhecimento e experiência em desenvolvimento para plataformas desktop, 
 ## 📱 Contato
 <a href="mailto:andre@imperiosoft.com.br">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+</a>&nbsp;&nbsp; andre@imperiosoft.com.br
   <br><br><br><br>
 
 ## 🤜🤛 Social
