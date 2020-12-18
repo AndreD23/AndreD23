@@ -8,7 +8,7 @@
 
 <h3 align="left">
 👨🏻‍💻 &nbsp; Sou engenheiro de software, desenvolvedor full-stack e empreendedor.
-
+<br>
 Possuo conhecimento e experiência em desenvolvimento para plataformas desktop, web e mobile.
 </h3>
 
