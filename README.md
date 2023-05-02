@@ -4,7 +4,7 @@
 
 <br>
 
-<img align='right' src='http://www.jenyalestina.com/blog/wp-content/uploads/2019/05/web-development-1024x582.jpg' width='300"'>
+<img align='right' src='https://imperiosoft.com.br/uploads/github/web-development-1024x582.jpg' width='300"'>
 
 <h3 align="left">
 👨🏻‍💻 &nbsp; Sou engenheiro de software, desenvolvedor full-stack e empreendedor.
@@ -77,7 +77,7 @@ Possuo conhecimento e experiência em desenvolvimento para plataformas desktop, 
 <br><br><br><br>
 
 ## 💻 Setup
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://imperiosoft.com.br/uploads/github/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align='center'>
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
@@ -100,4 +100,4 @@ Possuo conhecimento e experiência em desenvolvimento para plataformas desktop, 
 
 [![HitCount](http://hits.dwyl.com/AndreD23/AndreD23.svg)](http://hits.dwyl.com/AndreD23/AndreD23)
 
-<p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
+<p align="center"><img src="https://imperiosoft.com.br/uploads/github/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
