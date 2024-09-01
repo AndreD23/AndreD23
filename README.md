@@ -7,7 +7,7 @@
 <img align='right' src='https://imperiosoft.com.br/uploads/github/web-development-1024x582.jpg' width='300"'>
 
 <h3 align="left">
-👨🏻‍💻 &nbsp; Sou engenheiro de software, desenvolvedor full-stack e empreendedor.
+👨🏻‍💻 &nbsp; Sou engenheiro de software sênior full-stack.
 <br><br>
 Possuo conhecimento e experiência em desenvolvimento para plataformas desktop, web e mobile.
 </h3>
