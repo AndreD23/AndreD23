@@ -4,7 +4,7 @@
 
 <br>
 
-<img align='right' src='https://imperiosoft.com.br/uploads/github/web-development-1024x582.jpg' width='300"'>
+<img align='right' src='https://imperiosoft.com.br/uploads/github/andre-dorneles-dev.jpg' width='300"'>
 
 <h3 align="left">
 👨🏻‍💻 &nbsp; Sou engenheiro de software sênior full-stack.
